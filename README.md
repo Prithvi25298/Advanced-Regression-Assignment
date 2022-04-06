@@ -1,48 +1,43 @@
-# Project Name
-> Outline a brief description of your project.
+# Housing Price Prediction
+> A US-based housing company named Surprise Housing has decided to enter the Australian market. The company uses data analytics to purchase houses at a price below their actual values and flip them on at a higher price. For the same purpose, the company has collected a data set from the sale of houses in Australia
 
 
 ## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+*  Thhe company uses data analytics to purchase houses at a price below their actual values and flip them on at a higher price. For the same purpose 
+*  Python
+*  Lasso Regression is more accurate than Ridge Regression in this project
 
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- A US-based housing company named Surprise Housing has decided to enter the Australian market.
+- The company uses data analytics to purchase houses at a price below their actual values and flip them on at a higher price. 
+- the company has collected a data set from the sale of houses in Australia
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Lasso Regression is more accurate than Ridge Regression in this project
+- R2 score is 0.84 ,0.82 on train and test data respectivly
+- Value of lambda is 2 and Alpha is 0.3,100 respectively on Ridge and lasso regression
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Python
+- Pandas,Numpy,matplotlib,seabort
+- Sklearn
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- https://stackoverflow.com
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by Jay Panchal - feel free to contact me!
 
 
 <!-- Optional -->
