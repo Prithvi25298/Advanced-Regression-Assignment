@@ -3,7 +3,7 @@
 
 
 ## Table of Contents
-*  Thhe company uses data analytics to purchase houses at a price below their actual values and flip them on at a higher price. For the same purpose 
+*  The company uses data analytics to purchase houses at a price below their actual values and flip them on at a higher price. For the same purpose 
 *  Python
 *  Lasso Regression is more accurate than Ridge Regression in this project
 
